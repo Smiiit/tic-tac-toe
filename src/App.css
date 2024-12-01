@@ -1,0 +1,18 @@
+
+.board-row{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  font-size: 100px;
+
+}
+
+.board-container{
+  margin: 10px;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+.button{
+  font-size: 50px;
+}
